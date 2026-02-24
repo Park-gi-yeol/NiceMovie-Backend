@@ -1,0 +1,22 @@
+# Git
+.git
+.gitignore
+
+# IDE (Eclipse / IntelliJ / VS Code)
+.settings
+.project
+.classpath
+.idea
+.vscode
+*.iml
+
+# Maven build cache
+**/target/*
+!target/*.jar
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
